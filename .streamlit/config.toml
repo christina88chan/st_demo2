@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#F63366" # This is Streamlit's default red/pink, you can change it if you want
+backgroundColor = "#FFFFF0" # <--- Change this line for your background
+secondaryBackgroundColor = "#F0F2F6" # This is for sidebars/secondary elements
+textColor = "#262730"
+font = "sans serif"
