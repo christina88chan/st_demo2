@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+streamlit-mic-recorder
+psycopg2-binary
+supabase
